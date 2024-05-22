@@ -1,3 +1,4 @@
+Parte 1 :
 Pasos del algoritmo "Quicksort":
 1 Se crea la funcion swap, la cual devuelve una tupla con los valores de a y b intercambiados
 2 Se crea la funcion particionar, a la cual se le pasan 3 parametros: un array, el minimo y el maximo.
